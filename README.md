@@ -14,7 +14,7 @@ Github
 Installation
 ------------
 
-pip install django-nested-inline
+git+git://github.com/grebble-team/django-nested-inline
 
 
 Usage
